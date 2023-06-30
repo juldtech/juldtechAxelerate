@@ -4,5 +4,6 @@ imgaug>=0.2.9
 opencv-python>=4.1.2.30
 Pillow
 requests
+scikit-learn
 tqdm
 matplotlib
